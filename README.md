@@ -8,13 +8,13 @@ This project is designed to simulate a real-world college ERP/admin panel where 
 
 ## Live Demo
 
-🔗 Live Project: [Add Your Vercel Link Here]
+🔗 Live Project: https://internship-saa-s-dashboard-project.vercel.app/
 
 ---
 
 ## GitHub Repository
 
-🔗 GitHub Repo: [Add Your GitHub Link Here]
+🔗 GitHub Repo: https://github.com/Naman-Developer-MERN/Internship-SaaS-dashboard-project
 
 ---
 
